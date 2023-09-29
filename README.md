@@ -6,4 +6,4 @@ and Angular 7 and performing authentication using Login Page.<br>
    [![Watch the video](https://www.javainuse.com/ang1-you.JPG)](https://youtu.be/QQxqHT7yhHc)
 
 
-	
+	I made the changes
